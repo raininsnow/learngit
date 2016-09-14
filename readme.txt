@@ -4,3 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick.
 Creating a new branch is so quick.
+
+Create a new user
+and branch is dev1
