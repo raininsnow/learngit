@@ -8,6 +8,7 @@ Creating a new branch is so quick.
 Creating a new branch is quick AND simple
 Testing remote
 
+Testing merge reqeuest dev2
 
 
 
